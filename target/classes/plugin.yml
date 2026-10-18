@@ -1,0 +1,10 @@
+name: FastLoot
+version: 1.0.0
+main: me.srihaas.fastloot.FastLoot
+api-version: 1.16
+author: Srihaas
+description: Sneak-right-click containers to loot everything that fits.
+permissions:
+  fastloot.use:
+    description: Lets a player use FastLoot.
+    default: true
